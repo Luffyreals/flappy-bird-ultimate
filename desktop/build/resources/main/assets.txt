@@ -1,0 +1,8 @@
+7516957a-62b2-44f9-ac86-c55898711b13.jpg
+background.jpg
+bgm.mp3
+bird.png
+gameover.wav
+jump.wav
+pipe.png
+score.wav
