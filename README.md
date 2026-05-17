@@ -10,7 +10,11 @@
 * **[Nguyễn Hoàng Tùng]** — *Lead Developer / UI-UX Designer*
     GitHub: https://github.com/Luffyreals
     Contact: 0906279876
-
+* **[Trần Quốc Việt]**
+* **[Nguyễn Trường Bảo Hoàng]**
+* **[Hoàng Anh Quân]**
+* **[Nguyễn Văn Hiếu]**
+* **[Đào Bích Ngọc]**
 
 ### Mô hình làm việc
 
